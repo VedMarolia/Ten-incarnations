@@ -1,0 +1,48 @@
+body{
+   background-image: url("download.jpg");
+   background-repeat: no-repeat;
+   background-size: cover;
+}
+
+header{
+    background-color: aqua;
+}
+
+#nh1{
+    font-style: italic;
+    font-size: 50px;
+    color: lightblue;
+    font-family: agatha;
+}
+
+.empty-box{
+    height:200px;
+    width: 100%;
+}
+
+.my-box{
+    width:700px;
+    height:500px;
+    box-shadow: 1px 1px 10px black;
+    border-radius: 20px;
+    border-width: 5px;
+    border-color: rgb(251, 254, 252);
+}
+
+
+#nar_img{
+    width: 100%;
+    height: 100%;
+    object-fit: fill;
+    border-radius:20px ;
+}
+
+.container{
+    background-color: rgb(150, 145, 145);
+    color: blue;
+}
+
+#nshlok{
+    background-color: blue;
+    width: 70%;
+}
